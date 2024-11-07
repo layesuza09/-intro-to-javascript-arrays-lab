@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "intro-to-javascript-arrays-lab",
+			"path": "../../labs/intro-to-javascript-arrays-lab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
